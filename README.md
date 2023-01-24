@@ -1,0 +1,1 @@
+# bg-collection-manager
